@@ -1,0 +1,28 @@
+name: world
+favicon: null
+layout_spectrum: 0.1633778379764408
+typography_spectrum: 0.8986604276578873
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7246900703758001
+  lightness: 0.3298359902109951
+  saturation: 0.10612339689396322
+  rhythmicContrast: 0.24718963960185647
+purpose: []
